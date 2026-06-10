@@ -9,7 +9,7 @@ import {
   withTiming,
 } from "react-native-reanimated";
 
-export default function Gradient() {
+export default function Gradient2() {
   const { width, height } = useWindowDimensions();
 
   // Unified running clock for the animation phases
