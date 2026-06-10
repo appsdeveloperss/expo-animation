@@ -26,7 +26,6 @@ const ANIMATION_CONFIG = {
   spring: {
     damping: 10,
     stiffness: 50,
-    duration: 900,
   },
 } as const;
 
